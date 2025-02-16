@@ -4,4 +4,9 @@
              x:Class="MauiAppMinhasCompras.Views.ListarProduto"
              Title = "Listar Produto"
              BackgroundColor="Beige">
+             <VerticalStackLayout>
+                <Label 
+                    Text= "Listar Produtos"
+                    /> 
+             </VerticalStackLayout>
 </ContentPage>
