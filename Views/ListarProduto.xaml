@@ -3,10 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiAppMinhasCompras.Views.ListarProduto"
              Title = "Listar Produto"
-             BackgroundColor="Beige">
-             <VerticalStackLayout>
+             BackgroundColor="{StaticResource Gray100}">
+             <VerticalStackLayout
+                HorizontalOptions="Center">
                 <Label 
                     Text= "Listar Produtos"
+                    TextColor="MidnightBlue"
+                    FontSize="Large"
                     /> 
              </VerticalStackLayout>
 </ContentPage>
