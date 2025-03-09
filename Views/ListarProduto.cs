@@ -1,4 +1,3 @@
-
 namespace MauiAppMinhasCompras.Views;
 
 public partial class ListarProduto : ContentPage
@@ -6,5 +5,17 @@ public partial class ListarProduto : ContentPage
     public ListarProduto()
     {
         InitializeComponent();
+    }
+
+    private void ToolbarItem_Clicked(object sender, EventArgs e)
+    {
+        try
+        {
+            Navigation.PushAsync(new Views.NovoProduto());
+
+        } catch (Exception ex)
+        {
+            DisplayAlert("Ops", ex.Message, "OK");
+        }
     }
 }
