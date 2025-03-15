@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JrFoqEKaNAE=",
+  "dgSpecHash": "prmK44+Sp1w=",
   "success": true,
   "projectFilePath": "/home/rladeira/NETMaui/MauiAppMinhasCompras/MauiAppMinhasCompras.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,7 @@
     "/home/rladeira/.nuget/packages/microsoft.maui.essentials/8.0.100/microsoft.maui.essentials.8.0.100.nupkg.sha512",
     "/home/rladeira/.nuget/packages/microsoft.maui.graphics/8.0.100/microsoft.maui.graphics.8.0.100.nupkg.sha512",
     "/home/rladeira/.nuget/packages/microsoft.maui.resizetizer/8.0.100/microsoft.maui.resizetizer.8.0.100.nupkg.sha512",
-    "/home/rladeira/.nuget/packages/microsoft.net.illink.tasks/8.0.13/microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "/home/rladeira/.nuget/packages/microsoft.net.illink.tasks/8.0.14/microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
     "/home/rladeira/.nuget/packages/sqlite-net-pcl/1.9.172/sqlite-net-pcl.1.9.172.nupkg.sha512",
     "/home/rladeira/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
     "/home/rladeira/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
@@ -115,13 +115,13 @@
     "/home/rladeira/.nuget/packages/xamarin.kotlin.stdlib.jdk8/1.9.0.1/xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "/home/rladeira/.nuget/packages/xamarin.kotlinx.coroutines.android/1.7.2.1/xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "/home/rladeira/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.7.2.1/xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "/home/rladeira/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
-    "/home/rladeira/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
-    "/home/rladeira/.nuget/packages/microsoft.android.ref.34/34.0.147/microsoft.android.ref.34.34.0.147.nupkg.sha512",
-    "/home/rladeira/.nuget/packages/microsoft.android.runtime.34.android-arm/34.0.147/microsoft.android.runtime.34.android-arm.34.0.147.nupkg.sha512",
-    "/home/rladeira/.nuget/packages/microsoft.android.runtime.34.android-arm64/34.0.147/microsoft.android.runtime.34.android-arm64.34.0.147.nupkg.sha512",
-    "/home/rladeira/.nuget/packages/microsoft.android.runtime.34.android-x86/34.0.147/microsoft.android.runtime.34.android-x86.34.0.147.nupkg.sha512",
-    "/home/rladeira/.nuget/packages/microsoft.android.runtime.34.android-x64/34.0.147/microsoft.android.runtime.34.android-x64.34.0.147.nupkg.sha512"
+    "/home/rladeira/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/rladeira/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/rladeira/.nuget/packages/microsoft.android.ref.34/34.0.148/microsoft.android.ref.34.34.0.148.nupkg.sha512",
+    "/home/rladeira/.nuget/packages/microsoft.android.runtime.34.android-arm/34.0.148/microsoft.android.runtime.34.android-arm.34.0.148.nupkg.sha512",
+    "/home/rladeira/.nuget/packages/microsoft.android.runtime.34.android-arm64/34.0.148/microsoft.android.runtime.34.android-arm64.34.0.148.nupkg.sha512",
+    "/home/rladeira/.nuget/packages/microsoft.android.runtime.34.android-x86/34.0.148/microsoft.android.runtime.34.android-x86.34.0.148.nupkg.sha512",
+    "/home/rladeira/.nuget/packages/microsoft.android.runtime.34.android-x64/34.0.148/microsoft.android.runtime.34.android-x64.34.0.148.nupkg.sha512"
   ],
   "logs": []
 }

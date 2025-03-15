@@ -1,2 +1,2 @@
-AdbTarget=-s emulator-5554
+AdbTarget=-s Medium_Phone_API_34
 AdbOptions=
