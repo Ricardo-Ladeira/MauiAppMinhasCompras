@@ -1,9 +1,9 @@
 ﻿using MauiAppMinhasCompras.Helpers;
+using System.Globalization;
 
-namespace MauiAppMinhasCompras;
-
-	public partial class App : Application
-
+namespace MauiAppMinhasCompras
+{
+    public partial class App : Application
     {
         static SQLiteDatabaseHelper _db;
 
@@ -24,19 +24,15 @@ namespace MauiAppMinhasCompras;
                 return _db;
             }
         }
-    
-	public App()
-	{
-		InitializeComponent();
-	// }
-		// MainPage = new AppShell();
-		MainPage = new NavigationPage (new Views.ListarProduto());
-	    
-    // protected override Window CreateWindow(IActivationState activationState)
-    // {
-    //     return new Window(new Views.ListarProduto());
+
+        public App()
+        {
+            InitializeComponent();
+
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("pt-BR");
+
+            //MainPage = new AppShell();
+            MainPage = new NavigationPage(new Views.ListarProduto());
+        }
     }
-
 }
-
-
